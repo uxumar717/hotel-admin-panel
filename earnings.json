@@ -1,0 +1,87 @@
+{
+    "balance": 109500.0,
+    "history": [
+        {
+            "date": "2025-12-04 10:42:23",
+            "description": "INCOME: Dues Payment for Room 3 Floor 2",
+            "amount": 7500.0,
+            "room_id": 10,
+            "running_balance": 7500.0
+        },
+        {
+            "date": "2025-12-04 10:43:25",
+            "description": "INCOME: Initial Deposit for Room 7 Floor 3",
+            "amount": 573750.0,
+            "room_id": 21,
+            "running_balance": 581250.0
+        },
+        {
+            "date": "2025-12-04 10:46:07",
+            "description": "INCOME: Initial Deposit for Room 1 Floor 1",
+            "amount": 70000.0,
+            "room_id": 1,
+            "running_balance": 651250.0
+        },
+        {
+            "date": "2025-12-04 10:47:09",
+            "description": "REFUND: Early Checkout Room 1 Floor 1",
+            "amount": -61500.0,
+            "room_id": 1,
+            "running_balance": 589750.0
+        },
+        {
+            "date": "2025-12-04 10:49:17",
+            "description": "INCOME: Initial Deposit for Room 2 Floor 2",
+            "amount": 75000.0,
+            "room_id": 9,
+            "running_balance": 664750.0
+        },
+        {
+            "date": "2025-12-04 10:50:00",
+            "description": "REFUND: Early Checkout Room 2 Floor 2",
+            "amount": -66500.0,
+            "room_id": 9,
+            "running_balance": 598250.0
+        },
+        {
+            "date": "2025-12-04 11:20:42",
+            "description": "EXPENSE: Salaries - Staff salary 2025",
+            "amount": -10000.0,
+            "room_id": "N/A",
+            "type": "EXPENSE",
+            "running_balance": 588250.0
+        },
+        {
+            "date": "2025-12-04 22:00:31",
+            "description": "INCOME: Initial Deposit for Room 5 Floor 1",
+            "amount": 114750.0,
+            "room_id": 5,
+            "type": "INCOME",
+            "running_balance": 703000.0
+        },
+        {
+            "date": "2025-12-04 22:01:16",
+            "description": "REFUND: Early Checkout Room 5 Floor 1",
+            "amount": -102000.0,
+            "room_id": 5,
+            "type": "INCOME",
+            "running_balance": 601000.0
+        },
+        {
+            "date": "2025-12-04 22:03:56",
+            "description": "EXPENSE: Salaries - Salary of month December 2025",
+            "amount": -500000.0,
+            "room_id": "N/A",
+            "type": "EXPENSE",
+            "running_balance": 101000.0
+        },
+        {
+            "date": "2025-12-06 12:03:51",
+            "description": "INCOME: Dues Payment for Room 1 Floor 1",
+            "amount": 8500.0,
+            "room_id": 1,
+            "type": "INCOME",
+            "running_balance": 109500.0
+        }
+    ]
+}

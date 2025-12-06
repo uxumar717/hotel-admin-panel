@@ -1,0 +1,502 @@
+{
+    "Room 1 Floor 1": {
+        "type": "Single",
+        "available": false,
+        "id": 1,
+        "price": 10000,
+        "Booked-To": {
+            "Name": "pakistan",
+            "CNIC": "985",
+            "Check-in": "2025-12-04",
+            "Check-Out": "2025-12-05",
+            "Outstanding": 0.0,
+            "Paid": 8500.0,
+            "Total Price": 8500.0,
+            "Daily Rate": 8500.0,
+            "Days": 1
+        }
+    },
+    "Room 2 Floor 1": {
+        "type": "Single",
+        "available": true,
+        "id": 2,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 1": {
+        "type": "Single",
+        "available": true,
+        "id": 3,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 1": {
+        "type": "Single",
+        "available": true,
+        "id": 4,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 1": {
+        "type": "Double",
+        "available": true,
+        "id": 5,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 1": {
+        "type": "Double",
+        "available": true,
+        "id": 6,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 1": {
+        "type": "Family",
+        "available": true,
+        "id": 7,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 2": {
+        "type": "Single",
+        "available": true,
+        "id": 8,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 2": {
+        "type": "Single",
+        "available": true,
+        "id": 9,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 2": {
+        "type": "Single",
+        "available": true,
+        "id": 10,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 2": {
+        "type": "Single",
+        "available": true,
+        "id": 11,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 2": {
+        "type": "Double",
+        "available": true,
+        "id": 12,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 2": {
+        "type": "Double",
+        "available": true,
+        "id": 13,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 2": {
+        "type": "Family",
+        "available": true,
+        "id": 14,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 3": {
+        "type": "Single",
+        "available": true,
+        "id": 15,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 3": {
+        "type": "Single",
+        "available": true,
+        "id": 16,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 3": {
+        "type": "Single",
+        "available": true,
+        "id": 17,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 3": {
+        "type": "Single",
+        "available": true,
+        "id": 18,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 3": {
+        "type": "Double",
+        "available": true,
+        "id": 19,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 3": {
+        "type": "Double",
+        "available": true,
+        "id": 20,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 3": {
+        "type": "Family",
+        "available": true,
+        "id": 21,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 4": {
+        "type": "Single",
+        "available": true,
+        "id": 22,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 4": {
+        "type": "Single",
+        "available": true,
+        "id": 23,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 4": {
+        "type": "Single",
+        "available": true,
+        "id": 24,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 4": {
+        "type": "Single",
+        "available": true,
+        "id": 25,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 4": {
+        "type": "Double",
+        "available": true,
+        "id": 26,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 4": {
+        "type": "Double",
+        "available": true,
+        "id": 27,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 4": {
+        "type": "Family",
+        "available": true,
+        "id": 28,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 5": {
+        "type": "Single",
+        "available": true,
+        "id": 29,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 5": {
+        "type": "Single",
+        "available": true,
+        "id": 30,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 5": {
+        "type": "Single",
+        "available": true,
+        "id": 31,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 5": {
+        "type": "Single",
+        "available": true,
+        "id": 32,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 5": {
+        "type": "Double",
+        "available": true,
+        "id": 33,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 5": {
+        "type": "Double",
+        "available": true,
+        "id": 34,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 5": {
+        "type": "Family",
+        "available": true,
+        "id": 35,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 6": {
+        "type": "Single",
+        "available": true,
+        "id": 36,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 6": {
+        "type": "Single",
+        "available": true,
+        "id": 37,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 6": {
+        "type": "Single",
+        "available": true,
+        "id": 38,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 6": {
+        "type": "Single",
+        "available": true,
+        "id": 39,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 6": {
+        "type": "Double",
+        "available": true,
+        "id": 40,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 6": {
+        "type": "Double",
+        "available": true,
+        "id": 41,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 6": {
+        "type": "Family",
+        "available": true,
+        "id": 42,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 7": {
+        "type": "Single",
+        "available": true,
+        "id": 43,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 7": {
+        "type": "Single",
+        "available": true,
+        "id": 44,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 7": {
+        "type": "Single",
+        "available": true,
+        "id": 45,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 7": {
+        "type": "Single",
+        "available": true,
+        "id": 46,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 7": {
+        "type": "Double",
+        "available": true,
+        "id": 47,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 7": {
+        "type": "Double",
+        "available": true,
+        "id": 48,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 7": {
+        "type": "Family",
+        "available": true,
+        "id": 49,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 8": {
+        "type": "Single",
+        "available": true,
+        "id": 50,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 8": {
+        "type": "Single",
+        "available": true,
+        "id": 51,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 8": {
+        "type": "Single",
+        "available": true,
+        "id": 52,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 8": {
+        "type": "Single",
+        "available": true,
+        "id": 53,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 8": {
+        "type": "Double",
+        "available": true,
+        "id": 54,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 8": {
+        "type": "Double",
+        "available": true,
+        "id": 55,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 8": {
+        "type": "Family",
+        "available": true,
+        "id": 56,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 9": {
+        "type": "Single",
+        "available": true,
+        "id": 57,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 9": {
+        "type": "Single",
+        "available": true,
+        "id": 58,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 9": {
+        "type": "Single",
+        "available": true,
+        "id": 59,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 9": {
+        "type": "Single",
+        "available": true,
+        "id": 60,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 9": {
+        "type": "Double",
+        "available": true,
+        "id": 61,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 9": {
+        "type": "Double",
+        "available": true,
+        "id": 62,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 9": {
+        "type": "Family",
+        "available": true,
+        "id": 63,
+        "price": 25000,
+        "Booked-To": null
+    },
+    "Room 1 Floor 10": {
+        "type": "Single",
+        "available": true,
+        "id": 64,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 2 Floor 10": {
+        "type": "Single",
+        "available": true,
+        "id": 65,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 3 Floor 10": {
+        "type": "Single",
+        "available": true,
+        "id": 66,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 4 Floor 10": {
+        "type": "Single",
+        "available": true,
+        "id": 67,
+        "price": 10000,
+        "Booked-To": null
+    },
+    "Room 5 Floor 10": {
+        "type": "Double",
+        "available": true,
+        "id": 68,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 6 Floor 10": {
+        "type": "Double",
+        "available": true,
+        "id": 69,
+        "price": 15000,
+        "Booked-To": null
+    },
+    "Room 7 Floor 10": {
+        "type": "Family",
+        "available": true,
+        "id": 70,
+        "price": 25000,
+        "Booked-To": null
+    }
+}
