@@ -1,6 +1,6 @@
 streamlit
-json
-matplotlib.pyplot
 pandas
+matplotlib
 numpy
 plotly
+python-dateutil
